@@ -1,4 +1,4 @@
-
+#!/usr/bin/env bash
 # This script is used to enable, disable, and uninstall mods
 
 # displays usage information
